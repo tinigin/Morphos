@@ -1,13 +1,13 @@
 {
-	"name": "wapmorgan/morphos",
+	"name": "tinigin/morphos",
 	"description": "A morphological solution for Russian and English language written completely in PHP. Provides classes to inflect personal names, geographical names, decline and pluralize nouns, generate cardinal and ordinal numerals, spell out money amounts and time.",
 	"license": "MIT",
 	"keywords": ["language", "morphology", "russian", "english", "inflection", "personal names", "geographical names", "declension", "nouns", "adjectives", "pluralization", "spelling", "human-friendly", "numerals", "cardinal", "ordinal", "money", "time"],
-	"homepage": "http://morphos.io",
+	"homepage": "https://tinigin.ru",
 	"authors": [
 		{
-			"name": "Sergey Vanyushin",
-			"email": "wapmorgan@gmail.com",
+			"name": "Dmitrii Tinigin",
+			"email": "tinigin@gmail.com",
 			"role": "developer"
 		}
 	],
